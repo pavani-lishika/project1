@@ -1,0 +1,25 @@
+.row{
+    margin-top: 120px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+}
+.row img{
+    background-size: cover;
+    border-radius: 500%;
+    margin-left:500px;
+  margin-bottom: 200px;   
+  }
+  
+h1{
+    
+    color:brown;
+    font-style: italic;
+    margin-left: 50px;
+   
+}
+h2{
+   
+    color:brown;
+    font-style: italic;
+    margin-left: 150px;
+}

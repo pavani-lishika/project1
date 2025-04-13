@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "firstname": "pavani",
+      "lastname": "jerubandi",
+      "dob": "15-06-1997",
+      "email": "pavani@gmail.com",
+      "password": "pavani123",
+      "id": "2d34"
+    },
+    {
+      "id": "a35b",
+      "firstname": "karthi",
+      "lastname": "pavani",
+      "dob": "13-02-1991",
+      "email": "karthi@gmail.com",
+      "password": "kar123"
+    },
+    {
+      "id": "409f",
+      "firstname": "karthik",
+      "lastname": "pavani",
+      "dob": "13-02-1991",
+      "email": "karthi@gmail.com",
+      "password": "karthi123"
+    },
+    {
+      "id": "1674",
+      "firstname": "lavanya",
+      "lastname": "killi",
+      "dob": "12-02-1998",
+      "email": "lavanya@gmail.com",
+      "password": "lava123"
+    },
+    {
+      "id": "19ba",
+      "firstname": "abcd",
+      "lastname": "xyz",
+      "dob": "12-08-1997",
+      "email": "abcd@gmail.com",
+      "password": "abcd123"
+    },
+    {
+      "id": "9c92",
+      "firstname": "hari",
+      "lastname": "giri",
+      "dob": "12-09-1998",
+      "email": "hari@gmail.com",
+      "password": "hari123"
+    },
+    {
+      "id": "50fa",
+      "firstname": "sita",
+      "lastname": "gita",
+      "dob": "12-09-1998",
+      "email": "sita@gmail.com",
+      "password": "sita123"
+    },
+    {
+      "id": "79b9",
+      "firstname": "mani",
+      "lastname": "kanta",
+      "dob": "12-09-1990",
+      "email": "mani@gmail.com",
+      "password": "manimani"
+    }
+  ]
+}

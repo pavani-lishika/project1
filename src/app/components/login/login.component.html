@@ -1,0 +1,26 @@
+<div class="container mt-5">
+  <h2 class="text-center">Login</h2>
+  <form [formGroup]="loginForm" (ngSubmit)="onLogin()"  class="w-50 mx-auto shadow p-4 rounded">
+    
+    <div class="mb-3">
+      <label for="email" class="form-label">Email</label>
+      <input type="email" id="email" class="form-control" formControlName="email" />
+    </div>
+
+    <div class="mb-3">
+      <label for="password" class="form-label">Password</label>
+      <input type="password" id="password" class="form-control" formControlName="password" />
+    </div>
+
+    
+
+    <button type="submit" class="btn btn-primary w-100" routerLink="home">Login</button>
+
+    
+    <div class="text-center mt-3">
+      <a routerLink="/signup">Don't have an account? Sign up</a> |
+      <a routerLink="/forgot-password">Forgot Password?</a>
+    </div>
+
+  </form>
+</div>

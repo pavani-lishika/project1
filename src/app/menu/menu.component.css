@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+    color:blue
+}
+h1{
+    color:brown;
+}
+.row{
+    margin-top:100px;
+    margin-left:100px;
+}
+.row ul{
+    color:blue;
+    font-size: x-large;
+    margin-top: 10px;
+}
+.row ul li{
+    margin-top: 10px;
+}
