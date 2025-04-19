@@ -17,4 +17,7 @@ export class AuthService {
   login(email: string, password: string): Observable<any[]> {
     return this.http.get<any[]>(`${this.dataUrl}?email=${email}&password=${password}`);
   }
+  forgotPassword(email: string): Observable<any[]> {
+    return this.http.get<any[]>(`${this.dataUrl}?email=${email}`);
+  }
 }
